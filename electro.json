@@ -1,0 +1,41 @@
+[
+  {
+    "nombre": "Secadora",
+    "marca": "LG",
+    "tipo": "Secadora",
+    "precio": 750.000
+  },
+  {
+    "nombre": "Extractor de jugos",
+    "marca": "Samsung",
+    "tipo": "Extractor de jugos",
+    "precio": 150.000
+  },
+  {
+    "nombre": "Freidora de aire",
+    "marca": "Kalley",
+    "tipo": "Freidora de aire",
+    "precio": 300.000
+  },
+  {
+    "nombre": "Plancha de ropa",
+    "marca": "LG",
+    "tipo": "Plancha de ropa",
+    "precio": 120.000
+  },
+  {
+    "nombre": "Licuadora",
+    "marca": "Samsung",
+    "tipo": "Licuadora",
+    "precio": 100.000
+  },
+  {
+    "nombre": "Robot de cocina",
+    "marca": "Kalley",
+    "tipo": "Robot de cocina",
+    "precio": 500.000
+  }
+]
+  
+
+
